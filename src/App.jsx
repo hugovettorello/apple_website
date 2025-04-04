@@ -1,3 +1,4 @@
+import Feature from "./components/Feature"
 import Hero from "./components/Hero"
 import Highlights from "./components/Highlights"
 import Model from "./components/Model"
@@ -12,6 +13,7 @@ const App = () => {
     <Hero/>
     <Highlights/>
     <Model/>
+    <Feature/>
    </main>
   )
 

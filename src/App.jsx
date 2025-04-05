@@ -1,4 +1,5 @@
 import Feature from "./components/Feature"
+import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Highlights from "./components/Highlights"
 import HowItWorks from "./components/HowItWorks"
@@ -16,6 +17,7 @@ const App = () => {
     <Model/>
     <Feature/>
     <HowItWorks/>
+    <Footer/>
    </main>
   )
 
